@@ -1,0 +1,16 @@
+body 
+{
+    background-color: gold;
+}
+h1 {
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 1px 0 #000000;
+    color: #ff7d7d;
+  }
+  h2 {
+    margin: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: rgb(255, 255, 255);
+    color: #051509;
+  }

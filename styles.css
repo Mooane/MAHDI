@@ -1,0 +1,25 @@
+
+body
+{
+    background-color: aqua;
+}
+
+
+
+
+
+h1 {
+
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #ffffff;
+    font-size: 4rem;
+    color: #000000;
+  }
+  h2 {
+    margin: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 2 px 0  #000000;
+    font-size: large;
+    color: rgb(255, 0, 0);
+  }
